@@ -2,7 +2,7 @@
 
 <dir dir="rtl">
 
-## درباره ی اواسام
+## about avasam
 
 </dir>
 
