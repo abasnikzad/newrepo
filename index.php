@@ -1,4 +1,4 @@
 <?php
 
-echo 'hello github';
+echo 'fixed bug'; 
 ?>
