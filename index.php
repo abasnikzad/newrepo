@@ -1,4 +1,4 @@
 <?php
 
-echo 'fixed bug';
+echo 'fixed bug'; 
 ?>
